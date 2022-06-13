@@ -10,7 +10,7 @@ JavaScript, React.js, React Router (v5), React Hooks, Firebase RT Database, HTTP
 
 # Running and Usage
 
-You can simply visit the app in the gh-pages [website](https://quotes-demo-app.netlify.app).
+You can simply visit the app in the [website](https://quotes-demo-app.netlify.app).
 
 Or, you can download and install the app, to run it locally:
 
